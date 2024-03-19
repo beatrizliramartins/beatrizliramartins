@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="blm">
 
 <p align="left"> 
-  Olá, eu sou Beatriz Lira <strong>estudante de ciências da computação</strong>.<br>
-  Trabalho com gestão de tráfego do facebook e google e estou buscando estágio como desenvolvedora.
+  Olá, eu sou Beatriz Lira <strong>Graduada em Ciências da Computação</strong>.<br>
+ Trabalho com gestora de tráfego Facebook Ads e Google Ads. Estou buscando trabalho na área tech como Dev Júnior.
 </p>
 
 <p align="left">
