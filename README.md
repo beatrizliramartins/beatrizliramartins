@@ -3,14 +3,18 @@
 <p align="left"> 
   Olá, eu sou Beatriz Lira <strong>Graduada em Ciências da Computação</strong>.<br>
  Trabalho com gestora de tráfego Facebook Ads e Google Ads. Estou buscando trabalho na área tech como Dev Júnior.
+ Sou apaixonada por Análise de Dados.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>JavaScript,Python.</strong>
+  🦄 Linguagens: <strong>Python.</strong>
 </p>
 
 <p align="left">
   💼 Ferramentas: <strong>VS code, Jupyter, PyCharm</strong>
+  <p>
+   :books: Bibliotecas: Pandas, Numpy, Searborn, Plotly
+    </p>
 </p>
 
 <p align="left">
