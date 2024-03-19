@@ -13,7 +13,7 @@
 <p align="left">
   💼 Ferramentas: <strong>VS code, Jupyter, PyCharm</strong>
   <p>
-   :books: Bibliotecas: Pandas, Numpy, Searborn, Plotly
+   :books: Bibliotecas: Pandas, Numpy, Searborn, Plotly, Streamlit
     </p>
 </p>
 
