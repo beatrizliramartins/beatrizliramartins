@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS code, Jupyter, PyCharm</strong>
+  💼 Ferramentas: <strong>VS code, Jupyter, PyCharm, Pentaho, Postgres, Snowflake</strong>
   <p>
    :books: Bibliotecas: Pandas, Numpy, Searborn, Plotly, Streamlit
     </p>
