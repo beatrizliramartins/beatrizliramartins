@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="blm">
 
 <p align="left"> 
-  "Olá, eu sou Beatriz Lira, graduada em Ciências da Computação. Trabalho como Analista de Dados para Marketing Digital, focada em tráfego pago no Facebook Ads e Google Ads. Sou apaixonada por análise de dad
+  "Olá, eu sou Beatriz Lira, graduada em Ciências da Computação. Trabalho como Analista de Dados para Marketing Digital, focada em tráfego pago no Facebook Ads e Google Ads. Sou apaixonada por tecnologia
 </p>
 
 <p align="left">
