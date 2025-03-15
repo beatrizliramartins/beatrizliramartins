@@ -1,9 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="blm">
 
 <p align="left"> 
-  Olá, eu sou Beatriz Lira <strong>Graduada em Ciências da Computação</strong>.<br>
- Trabalho com gestora de tráfego Facebook Ads e Google Ads. Estou buscando trabalho na área tech como Dev Júnior.
- Sou apaixonada por Análise de Dados.
+  "Olá, eu sou Beatriz Lira, graduada em Ciências da Computação. Trabalho como Analista de Dados para Marketing Digital, focada em tráfego pago no Facebook Ads e Google Ads. Sou apaixonada por análise de dad
 </p>
 
 <p align="left">
